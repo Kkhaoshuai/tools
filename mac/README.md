@@ -15,3 +15,5 @@ export HOMEBREW_NO_AUTO_UPDATE=true
 ``` BASH
 alias tree="find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'"
 ```
+
+*I think it will be better to display this in the form of video or picture.*
